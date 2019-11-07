@@ -15,6 +15,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func Boton(_ sender: Any) {
+        print("Funciona!")
+        
+    }
+    
+    
 }
 
